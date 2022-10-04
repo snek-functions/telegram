@@ -1,4 +1,4 @@
-service: template
+service: telegram
 frameworkVersion: '3'
 
 plugins:
